@@ -134,3 +134,16 @@ There are various tools I like to use for communicating during a project.
     - [Gists](https://gist.github.com/) (for throw away pieces of code)
     - Dropbox (if you have something in a dropbox folder you can use the 'share
       a link feature' - this is partcilarly helpful and quick for screenshots)
+
+## Contributing to this repository
+
+I would be delighted for contributions to this repository:
+
+- If you are a student who has worked with me and feel that I am leaving
+  something out or indeed that there are useful tutorials/videos etc then please
+  do add them via pull request.
+- All other contributions are of course welcome, please keep in mind that I am
+  attempting to build a fairly generic list for students assuming only a very
+  basic knowledge of writing code.
+
+Please do raise an issue if you're not sure if something is worth having.
