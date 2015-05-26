@@ -19,3 +19,5 @@ Here are some specific things for the development of Sage:
     7. Discuss
     8. Repeat steps 3-7
     9. Virtual high five your reviewer and celebrate
+  You might also like to specifically use the [`git trac`
+  tool](http://doc.sagemath.org/html/en/developer/git_trac.html).
