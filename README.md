@@ -72,6 +72,10 @@ helpful:
 - [Contributing to the Axelrod
   library](https://www.youtube.com/watch?v=5kOUVdktxAo)
 
+There are various other markup languages (html, LaTeX, rest etc...) but I do not
+consider them to be fundamental (they will be listed where relevant in this
+repository).
+
 ### Testing
 
 When writing code it is very important to write automated tests. This is a good
@@ -81,6 +85,16 @@ but I need to find some better (smaller tutorials).
 
 When using tests and github it's great to also use
 [travis](https://travis-ci.org/).
+
+### Markup languages
+
+Markdown is a language worth learning to be able to neatly write on github
+issues etc...
+
+- [This video](https://www.youtube.com/watch?v=6A5EpqqDOdk) is probably the easiest way to do this (note that you will just
+write markdown in your preferred editor).
+- You can also read the [github flavoured markdown
+  documentation](https://help.github.com/articles/github-flavored-markdown/).
 
 ### Windows
 
