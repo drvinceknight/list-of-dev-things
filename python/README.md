@@ -12,6 +12,7 @@ Here are some python resources:
   much basics.
 - [A list of other
   resources](http://vknight.org/Computing_for_mathematics/Other/AlternativeResources/)
+- [A list of free Python books](http://pythonbooks.revolunet.com/)
 
 Please add more here via PR.
 
@@ -28,6 +29,9 @@ testing:
 - [The official documentation for the unittest library](https://docs.python.org/2/library/unittest.html)
 - [The hitchiker's guide to python section on unit
   testing](http://docs.python-guide.org/en/latest/writing/tests/)
+
+[This is a great video series on test driven
+development.](https://www.youtube.com/playlist?list=PL5859017B018F03F4)
 
 ## Structure of a library
 
@@ -54,3 +58,10 @@ different packages installed. This is useful when working with others as it
 ensures that you are using the same tools (thanks to a `requirement.txt` file).
 
 [Here](http://simononsoftware.com/virtualenv-tutorial) is a good overview.
+
+## Documentation
+
+Writing documentation is a big part of writing code. The easiest way to do this
+for Python libraries (hosted on github) is through
+[readthedocs](https://readthedocs.org/). Take a look at the tutorials available
+there.
