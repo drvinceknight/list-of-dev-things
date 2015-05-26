@@ -113,7 +113,7 @@ There are various tools I like to use for communicating during a project.
     - I particularly like [google hangouts](https://plus.google.com/hangouts):
     light weight and has a mobile app (which is very useful when I can only
     respond whilst running between meetings).
-    - Another great option is [gitter](https://gitter.im). Again, has a mobile app and also interfaces very nicely with github repositories.
+    - Another great option is [gitter](https://gitter.im). Again, has a mobile app and also interfaces very nicely with github repositories. You can find the gitter room for this repository [here](https://gitter.im/drvinceknight/list-of-things-to-learn).
     - [irc](http://en.wikipedia.org/wiki/Internet_Relay_Chat) is very popular in the open source world. I can't say I'm the
       biggest fan but it's a great place to drop in and speak to people.
 
