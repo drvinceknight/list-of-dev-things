@@ -49,6 +49,8 @@ tool. If you are using Mac OS then take a look at
 [iterm2](https://www.iterm2.com/).
 If you are using Windows take a look at the section at the end of this file.
 
+[Here](http://cli.learncodethehardway.org/book/) is a good tutorial.
+
 ### Git and github
 
 When doing software development you need to use a 'version control' system.
