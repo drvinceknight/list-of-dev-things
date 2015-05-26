@@ -1,5 +1,7 @@
 # List of things to learn
 
+[![Join the chat at https://gitter.im/drvinceknight/list-of-things-to-learn](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/drvinceknight/list-of-things-to-learn?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A repository containing lists of concepts, tutorials etc to be able to do development.
 
 I often take on students at the beginning of their coding 'careers' and this
