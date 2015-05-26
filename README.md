@@ -28,6 +28,7 @@ Get a good text editor.
       using css etc...
     - [sublime](http://www.sublimetext.com/) - a favorite of many. I can't say
       I've used it myself.
+    - [geany](http://www.geany.org/) - friendly though mighty and cross-platform.
 
 There are various other options (please do add them via pull request).
 
