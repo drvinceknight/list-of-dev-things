@@ -88,3 +88,35 @@ If you are using Windows I know very little about how to help you. I would
 recommend using [cloud.sagemath](https://cloud.sagemath.com/) which gives you a
 linux environment in the cloud with a terminal, text editor and various other
 things.
+
+### Communication
+
+There are various tools I like to use for communicating during a project.
+
+- Quick text based messages:
+    - I particularly like [google hangouts](https://plus.google.com/hangouts):
+    light weight and has a mobile app (which is very useful when I can only
+    respond whilst running between meetings).
+    - Another great option is [gitter](https://gitter.im). Again, has a mobile app and also interfaces very nicely with github repositories.
+    - [irc](http://en.wikipedia.org/wiki/Internet_Relay_Chat) is very popular in the open source world. I can't say I'm the
+      biggest fan but it's a great place to drop in and speak to people.
+
+- github issues. When using github for a project it comes with a nice interface
+  to raise a so called 'issue' which allows for a public record of a
+  conversation. This is very helpful and worthwhile in a development process as
+  at some point down the line it might be helpful to remember why something was
+  decided. It's always good to open an issue for a feature before starting to
+  work on it.
+
+- Emails (they do a job).
+
+- Virtual meetings: Very rarely are face to face meetings a regular requirement.
+  I like to use hangouts for these but again there are a variety of options.
+
+- urls: when working remotely it's very helpful to be able to just paste link to
+  something that brings it up in the receivers browser. There are various tools
+  for this:
+    - Github (just grab the link from the particular file)
+    - [Gists](https://gist.github.com/) (for throw away pieces of code)
+    - Dropbox (if you have something in a dropbox folder you can use the 'share
+      a link feature' - this is partcilarly helpful and quick for screenshots)
