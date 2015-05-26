@@ -72,6 +72,16 @@ helpful:
 - [Contributing to the Axelrod
   library](https://www.youtube.com/watch?v=5kOUVdktxAo)
 
+### Testing
+
+When writing code it is very important to write automated tests. This is a good
+book that takes you through the concepts for Django and Python:
+[http://chimera.labs.oreilly.com/books/1234000000754](http://chimera.labs.oreilly.com/books/1234000000754)
+but I need to find some better (smaller tutorials).
+
+When using tests and github it's great to also use
+[travis](https://travis-ci.org/).
+
 ### Windows
 
 If you are using Windows I know very little about how to help you. I would
