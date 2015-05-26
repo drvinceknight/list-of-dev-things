@@ -76,10 +76,6 @@ helpful:
 - [Contributing to the Axelrod
   library](https://www.youtube.com/watch?v=5kOUVdktxAo)
 
-There are various other markup languages (html, LaTeX, rest etc...) but I do not
-consider them to be fundamental (they will be listed where relevant in this
-repository).
-
 ### Testing
 
 When writing code it is very important to write automated tests. This is a good
@@ -99,6 +95,10 @@ issues etc...
 write markdown in your preferred editor).
 - You can also read the [github flavoured markdown
   documentation](https://help.github.com/articles/github-flavored-markdown/).
+
+There are various other markup languages (html, LaTeX, rest etc...) but I do not
+consider them to be fundamental (they will be listed where relevant in this
+repository).
 
 ### Windows
 
