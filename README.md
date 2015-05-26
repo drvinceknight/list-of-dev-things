@@ -28,6 +28,7 @@ Get a good text editor.
       using css etc...
     - [sublime](http://www.sublimetext.com/) - a favorite of many. I can't say
       I've used it myself.
+    - [geany](http://www.geany.org/) - friendly though mighty and cross-platform.
 
 There are various other options (please do add them via pull request).
 
@@ -61,6 +62,7 @@ The most popular version control system at the moment is one called
 [git](https://git-scm.com/). It comes with a bit of a learning curve but here
 are some videos/tutorial to get you started:
 
+- [Pro Git](https://progit.org/)
 - [What's so good about git](https://www.youtube.com/watch?v=OiiZIVb-rZ4)
 - [Advanced git](https://www.youtube.com/watch?v=4EOZvow1mk4)
 
