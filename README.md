@@ -60,12 +60,17 @@ changes in to the changes of others.
 
 The most popular version control system at the moment is one called
 [git](https://git-scm.com/). It comes with a bit of a learning curve but here
-are some videos/tutorial to get you started:
+are some videos/tutorial to get you started.
+
+This is probably worth reading first (it gives an overall description of what version control is):
+
+- [The git parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
+
+Here are some tutorials:
 
 - [Pro Git](https://progit.org/)
 - [What's so good about git](https://www.youtube.com/watch?v=OiiZIVb-rZ4)
 - [Advanced git](https://www.youtube.com/watch?v=4EOZvow1mk4)
-- [The git parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
 
 When using git it is helpful to have 'remote repositories' a good place for this
 is a website called [github](https://github.com/). This is used by coders all
