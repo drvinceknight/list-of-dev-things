@@ -1,5 +1,9 @@
 # List of things to learn
 
+[![Join the chat at https://gitter.im/drvinceknight/list-of-dev-things](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/drvinceknight/list-of-dev-things?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+[![Join the chat at https://gitter.im/drvinceknight/list-of-things-to-learn](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/drvinceknight/list-of-things-to-learn?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A repository containing lists of concepts, tutorials etc to be able to do development.
 
 I often take on students at the beginning of their coding 'careers' and this
@@ -26,6 +30,7 @@ Get a good text editor.
       using css etc...
     - [sublime](http://www.sublimetext.com/) - a favorite of many. I can't say
       I've used it myself.
+    - [geany](http://www.geany.org/) - friendly though mighty and cross-platform.
 
 There are various other options (please do add them via pull request).
 
@@ -47,6 +52,8 @@ tool. If you are using Mac OS then take a look at
 [iterm2](https://www.iterm2.com/).
 If you are using Windows take a look at the section at the end of this file.
 
+[Here](http://cli.learncodethehardway.org/book/) is a good tutorial.
+
 ### Git and github
 
 When doing software development you need to use a 'version control' system.
@@ -57,8 +64,10 @@ The most popular version control system at the moment is one called
 [git](https://git-scm.com/). It comes with a bit of a learning curve but here
 are some videos/tutorial to get you started:
 
+- [Pro Git](https://progit.org/)
 - [What's so good about git](https://www.youtube.com/watch?v=OiiZIVb-rZ4)
 - [Advanced git](https://www.youtube.com/watch?v=4EOZvow1mk4)
+- [The git parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
 
 When using git it is helpful to have 'remote repositories' a good place for this
 is a website called [github](https://github.com/). This is used by coders all
@@ -71,10 +80,6 @@ helpful:
   commit](https://dont-be-afraid-to-commit.readthedocs.org/en/latest/)
 - [Contributing to the Axelrod
   library](https://www.youtube.com/watch?v=5kOUVdktxAo)
-
-There are various other markup languages (html, LaTeX, rest etc...) but I do not
-consider them to be fundamental (they will be listed where relevant in this
-repository).
 
 ### Testing
 
@@ -96,6 +101,10 @@ write markdown in your preferred editor).
 - You can also read the [github flavoured markdown
   documentation](https://help.github.com/articles/github-flavored-markdown/).
 
+There are various other markup languages (html, LaTeX, rest etc...) but I do not
+consider them to be fundamental (they will be listed where relevant in this
+repository).
+
 ### Windows
 
 If you are using Windows I know very little about how to help you. I would
@@ -111,7 +120,7 @@ There are various tools I like to use for communicating during a project.
     - I particularly like [google hangouts](https://plus.google.com/hangouts):
     light weight and has a mobile app (which is very useful when I can only
     respond whilst running between meetings).
-    - Another great option is [gitter](https://gitter.im). Again, has a mobile app and also interfaces very nicely with github repositories.
+    - Another great option is [gitter](https://gitter.im). Again, has a mobile app and also interfaces very nicely with github repositories. You can find the gitter room for this repository [here](https://gitter.im/drvinceknight/list-of-things-to-learn).
     - [irc](http://en.wikipedia.org/wiki/Internet_Relay_Chat) is very popular in the open source world. I can't say I'm the
       biggest fan but it's a great place to drop in and speak to people.
 
