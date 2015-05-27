@@ -65,6 +65,7 @@ are some videos/tutorial to get you started:
 - [Pro Git](https://progit.org/)
 - [What's so good about git](https://www.youtube.com/watch?v=OiiZIVb-rZ4)
 - [Advanced git](https://www.youtube.com/watch?v=4EOZvow1mk4)
+- [The git parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
 
 When using git it is helpful to have 'remote repositories' a good place for this
 is a website called [github](https://github.com/). This is used by coders all
