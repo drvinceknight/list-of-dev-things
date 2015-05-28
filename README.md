@@ -72,6 +72,8 @@ Here are some tutorials:
 - [What's so good about git](https://www.youtube.com/watch?v=OiiZIVb-rZ4)
 - [Advanced git](https://www.youtube.com/watch?v=4EOZvow1mk4)
 
+Although you'll want to become proficient at driving Git via the command line, it can often be useful to have a graphical tool for those occasions when you are uncertain of the correct command. [SourceTree](https://www.atlassian.com/software/sourcetree/overview) is a free, cross platform desktop Git client which you may find useful.
+
 When using git it is helpful to have 'remote repositories' a good place for this
 is a website called [github](https://github.com/). This is used by coders all
 over the world to share code (and easily contribute to other's code).
@@ -110,10 +112,14 @@ repository).
 
 ### Windows
 
-If you are using Windows I know very little about how to help you. I would
-recommend using [cloud.sagemath](https://cloud.sagemath.com/) which gives you a
-linux environment in the cloud with a terminal, text editor and various other
-things.
+If you are using Windows, you have several choices for your terminal program:
+
+- The original Command Prompt runs commands and scripts in the MS-DOS scripting language. It's old, but there's lots of material online to help you
+- Windows Powershell is built into all modern versions of Windows and gives you a far superior, modern, object-oriented scripting language and a far better terminal.
+- If you want to use a Linux based interface to your Windows machine, you can install [Cygwin](https://www.cygwin.com/) which will give you most of the common Linux tools and commands.
+- You could also use [cloud.sagemath](https://cloud.sagemath.com/) which gives you a linux environment in the cloud with a terminal, text editor and various other things.
+
+For your text editor, both [atom](https://atom.io/), [sublime](http://www.sublimetext.com/) and [geany](http://www.geany.org/) will all work perfectly. If you are using Cygwin, you can also use Vim.
 
 ### Communication
 
