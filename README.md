@@ -118,12 +118,14 @@ If you are using Windows, you have several choices for your terminal program:
 - The original Command Prompt runs commands and scripts in the MS-DOS scripting language. It's old, but there's lots of material online to help you
 - Windows Powershell is built into all modern versions of Windows and gives you a far superior, modern, object-oriented scripting language and a far better terminal.
 - If you want to use a Linux based interface to your Windows machine, you can install [Cygwin](https://www.cygwin.com/) which will give you most of the common Linux tools and commands.
-- You could also use [cloud.sagemath](https://cloud.sagemath.com/) which gives you a linux environment in the cloud with a terminal, text editor and various other things.
+
+[This blog post by John
+Cook](http://www.johndcook.com/blog/2015/06/01/unix-like-shells-on-windows/)
+gives a good overview of some of the above.
+
+You could also use [cloud.sagemath](https://cloud.sagemath.com/) which gives you a linux environment in the cloud with a terminal, text editor and various other things, it is discussed in the section on [using the cloud](#using-the-cloud).
 
 For your text editor, both [atom](https://atom.io/), [sublime](http://www.sublimetext.com/) and [geany](http://www.geany.org/) will all work perfectly. If you are using Cygwin, you can also use Vim.
-
-Finally it is also possible to [use the cloud](#using-the-cloud) so that you
-do not need to worry about your operating system.
 
 ### Using the cloud
 
