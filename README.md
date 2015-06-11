@@ -121,7 +121,7 @@ If you are using Windows, you have several choices for your terminal program:
 
 For your text editor, both [atom](https://atom.io/), [sublime](http://www.sublimetext.com/) and [geany](http://www.geany.org/) will all work perfectly. If you are using Cygwin, you can also use Vim.
 
-Finally it is also possible to [use the cloud](### Using the cloud) so that you
+Finally it is also possible to [use the cloud](#using-the-cloud) so that you
 do not need to worry about your operating system.
 
 ### Using the cloud
