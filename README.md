@@ -48,7 +48,8 @@ surprised by the amount of great tools available to you on the _command line_
 If you are using a linux machine you are probably familiar with a good terminal
 tool. If you are using Mac OS then take a look at
 [iterm2](https://www.iterm2.com/).
-If you are using Windows take a look at the section at the end of this file.
+If you are using Windows take a look at the section at the end of this file that
+is about [using Windows](#windows).
 
 [Here](http://cli.learncodethehardway.org/book/) is a good tutorial.
 
