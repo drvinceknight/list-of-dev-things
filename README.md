@@ -121,6 +121,15 @@ If you are using Windows, you have several choices for your terminal program:
 
 For your text editor, both [atom](https://atom.io/), [sublime](http://www.sublimetext.com/) and [geany](http://www.geany.org/) will all work perfectly. If you are using Cygwin, you can also use Vim.
 
+### Using the cloud
+
+If you are using Windows and/or have other reasons you can do a lot of
+development right in your web browser.
+
+There are a variety of options but I am a big fan of
+[cloud.sagemath](https://cloud.sagemath.com/). In particular if you want to
+develop for [sagemath](http://sagemath.org/) this is an excellent option.
+
 ### Communication
 
 There are various tools I like to use for communicating during a project.
