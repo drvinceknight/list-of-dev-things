@@ -2,7 +2,7 @@
 
 Here are some specific things for the development of Sage:
 
-- Doctests: The sage library uses doctests as it's testing framework. This means
+- Doctests: The sage library uses doctests as its testing framework. This means
   that tests are written in a particular way right in to the docstrings of the
   code. You can read about doctesting the Sage library
   [here](http://doc.sagemath.org/html/en/reference/doctest/index.html).
