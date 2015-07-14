@@ -87,6 +87,7 @@ helpful:
 - [Contributing to the Axelrod
   library](https://www.youtube.com/watch?v=5kOUVdktxAo)
 
+If you are a student then sign up for github's [Student Pack](https://education.github.com/pack)
 ### Testing
 
 When writing code it is very important to write automated tests. This is a good
