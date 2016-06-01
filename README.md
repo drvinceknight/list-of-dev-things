@@ -63,7 +63,8 @@ The most popular version control system at the moment is one called
 [git](https://git-scm.com/). It comes with a bit of a learning curve but here
 are some videos/tutorial to get you started.
 
-This is probably worth reading first (it gives an overall description of what version control is):
+This is probably worth reading first (it gives an overall description of what
+version control is):
 
 - [The git parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
 
@@ -73,7 +74,11 @@ Here are some tutorials:
 - [What's so good about git](https://www.youtube.com/watch?v=OiiZIVb-rZ4)
 - [Advanced git](https://www.youtube.com/watch?v=4EOZvow1mk4)
 
-Although you'll want to become proficient at driving Git via the command line, it can often be useful to have a graphical tool for those occasions when you are uncertain of the correct command. [SourceTree](https://www.atlassian.com/software/sourcetree/overview) is a free, cross platform desktop Git client which you may find useful.
+Although you'll want to become proficient at driving Git via the command line,
+it can often be useful to have a graphical tool for those occasions when you are
+uncertain of the correct command.
+[SourceTree](https://www.atlassian.com/software/sourcetree/overview) is a free,
+cross platform desktop Git client which you may find useful.
 
 When using git it is helpful to have 'remote repositories' a good place for this
 is a website called [github](https://github.com/). This is used by coders all
@@ -102,8 +107,9 @@ When using tests and github it's great to also use
 Markdown is a language worth learning to be able to neatly write on github
 issues etc...
 
-- [This video](https://www.youtube.com/watch?v=6A5EpqqDOdk) is probably the easiest way to do this (note that you will just
-write markdown in your preferred editor).
+- [This video](https://www.youtube.com/watch?v=6A5EpqqDOdk) is probably the
+  easiest way to do this (note that you will just write markdown in your
+  preferred editor).
 - You can also read the [github flavoured markdown
   documentation](https://help.github.com/articles/github-flavored-markdown/).
 
@@ -115,17 +121,33 @@ repository).
 
 If you are using Windows, you have several choices for your terminal program:
 
-- The original Command Prompt runs commands and scripts in the MS-DOS scripting language. It's old, but there's lots of material online to help you
-- Windows Powershell is built into all modern versions of Windows and gives you a far superior, modern, object-oriented scripting language and a far better terminal.
-- If you want to use a Linux based interface to your Windows machine, you can install [Cygwin](https://www.cygwin.com/) which will give you most of the common Linux tools and commands.
+- The original Command Prompt runs commands and scripts in the MS-DOS scripting
+  language. It's old, but there's lots of material online to help you
+- When you install the [windows git client](https://git-scm.com/download/win)
+  you will also get a git-bash client which gives a good command line
+  environment.
+- Windows Powershell is built into all modern versions of Windows and gives you
+  a far superior, modern, object-oriented scripting language and a far better
+  terminal.
+- If you want to use a Linux based interface to your Windows machine, you can
+  install [Cygwin](https://www.cygwin.com/) which will give you most of the
+  common Linux tools and commands.
 
 [This blog post by John
 Cook](http://www.johndcook.com/blog/2015/06/01/unix-like-shells-on-windows/)
 gives a good overview of some of the above.
 
-You could also use [cloud.sagemath](https://cloud.sagemath.com/) which gives you a linux environment in the cloud with a terminal, text editor and various other things, it is discussed in the section on [using the cloud](#using-the-cloud).
+If you are using Windows, you should definitely use the [Anaconda distribution
+of Python](https://www.continuum.io/downloads#_windows). You almost certainly
+want to use Python 3 (check with whoever you are working with).
 
-For your text editor, both [atom](https://atom.io/), [sublime](http://www.sublimetext.com/) and [geany](http://www.geany.org/) will all work perfectly. If you are using Cygwin, you can also use Vim.
+You could also use [cloud.sagemath](https://cloud.sagemath.com/) which gives you
+a linux environment in the cloud with a terminal, text editor and various other
+things, it is discussed in the section on [using the cloud](#using-the-cloud).
+
+For your text editor, both [atom](https://atom.io/),
+[sublime](http://www.sublimetext.com/) and [geany](http://www.geany.org/) will
+all work perfectly. If you are using Cygwin, you can also use Vim.
 
 ### Using the cloud
 
@@ -144,8 +166,14 @@ There are various tools I like to use for communicating during a project.
     - I particularly like [google hangouts](https://plus.google.com/hangouts):
     light weight and has a mobile app (which is very useful when I can only
     respond whilst running between meetings).
-    - Another great option is [gitter](https://gitter.im). Again, has a mobile app and also interfaces very nicely with github repositories. You can find the gitter room for this repository [here](https://gitter.im/drvinceknight/list-of-dev-things).
-    - [irc](http://en.wikipedia.org/wiki/Internet_Relay_Chat) is very popular in the open source world. I can't say I'm the
+    - Another great option is [gitter](https://gitter.im). Again, has a mobile
+      app and also interfaces very nicely with github repositories. You can find
+      the gitter room for this repository
+      [here](https://gitter.im/drvinceknight/list-of-dev-things).
+    - Slack is slowly becoming an industry standard:
+      [slack.com/](https://slack.com/).
+    - [irc](http://en.wikipedia.org/wiki/Internet_Relay_Chat) is very popular
+      in the open source world. I can't say I'm the
       biggest fan but it's a great place to drop in and speak to people.
 
 - github issues. When using github for a project it comes with a nice interface
