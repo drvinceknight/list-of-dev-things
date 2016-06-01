@@ -129,6 +129,8 @@ If you are using Windows, you have several choices for your terminal program:
 - Windows Powershell is built into all modern versions of Windows and gives you
   a far superior, modern, object-oriented scripting language and a far better
   terminal.
+- [ConEmu](https://conemu.github.io/) is a very powerful, free and open source
+  terminal program.
 - If you want to use a Linux based interface to your Windows machine, you can
   install [Cygwin](https://www.cygwin.com/) which will give you most of the
   common Linux tools and commands.
