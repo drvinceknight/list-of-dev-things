@@ -8,8 +8,7 @@ library. This modularity helps with testing and contribution.
 
 Here are some python resources:
 
-- [My first year course](http://vknight.org/Computing_for_mathematics/) - Very
-  much basics.
+- [My first year course](http://vknight.org/cfm/) - Very much basics.
 - [A list of other
   resources](http://vknight.org/Computing_for_mathematics/Other/AlternativeResources/)
 - [A list of free Python books](http://pythonbooks.revolunet.com/)
