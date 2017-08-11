@@ -23,12 +23,14 @@ Get a good text editor.
 - I like to use [vim](http://www.vim.org/) but this has been historically referred to as having a steep
   learning curve. The plugins and ability to work right in the terminal are a
   huge strengths.
-- Here are three other options if you prefer to make use of your mouse:
+- Here are some other options if you prefer to make use of your mouse:
     - [atom](https://atom.io/) - has a bunch of plugins and can be hacked easily
       using css etc...
     - [sublime](http://www.sublimetext.com/) - a favorite of many. I can't say
       I've used it myself.
     - [geany](http://www.geany.org/) - friendly though mighty and cross-platform.
+    - [VS Code](https://code.visualstudio.com/) - an open-source editor released
+      by Microsoft. Built in support for git, [good selection of extensions](https://marketplace.visualstudio.com/vscode).
 
 There are various other options (please do add them via pull request).
 

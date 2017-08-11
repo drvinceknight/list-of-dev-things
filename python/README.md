@@ -8,20 +8,19 @@ library. This modularity helps with testing and contribution.
 
 Here are some python resources:
 
-- [My first year course](http://vknight.org/Computing_for_mathematics/) - Very
-  much basics.
+- [My first year course](http://vknight.org/cfm/) - Very much basics.
 - [A list of other
   resources](http://vknight.org/Computing_for_mathematics/Other/AlternativeResources/)
 - [A list of free Python books](http://pythonbooks.revolunet.com/)
 
 Please add more here via PR.
 
-## PEP8
+## PEP8
 
 There is an accepted convention for writing Python code, take a look at it
 [here](https://www.python.org/dev/peps/pep-0008/).
 
-## Testing
+## Testing
 
 In general the testing environment used for Python libraries is called unit
 testing:
