@@ -16,12 +16,12 @@ Here are some python resources:
 
 Please add more here via PR.
 
-## PEP8
+## PEP8
 
 There is an accepted convention for writing Python code, take a look at it
 [here](https://www.python.org/dev/peps/pep-0008/).
 
-## Testing
+## Testing
 
 In general the testing environment used for Python libraries is called unit
 testing:
