@@ -23,7 +23,7 @@ Get a good text editor.
 - I like to use [vim](http://www.vim.org/) but this has been historically referred to as having a steep
   learning curve. The plugins and ability to work right in the terminal are a
   huge strengths.
-- Here are three other options if you prefer to make use of your mouse:
+- Here are some other options if you prefer to make use of your mouse:
     - [atom](https://atom.io/) - has a bunch of plugins and can be hacked easily
       using css etc...
     - [sublime](http://www.sublimetext.com/) - a favorite of many. I can't say
