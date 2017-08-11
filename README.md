@@ -29,6 +29,8 @@ Get a good text editor.
     - [sublime](http://www.sublimetext.com/) - a favorite of many. I can't say
       I've used it myself.
     - [geany](http://www.geany.org/) - friendly though mighty and cross-platform.
+    - [VS Code](https://code.visualstudio.com/) - an open-source editor released
+      by Microsoft. Built in support for git, [good selection of extensions](https://marketplace.visualstudio.com/vscode).
 
 There are various other options (please do add them via pull request).
 
