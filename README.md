@@ -2,15 +2,15 @@
 
 [![Join the chat at https://gitter.im/drvinceknight/list-of-dev-things](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/drvinceknight/list-of-dev-things?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-A repository containing lists of concepts, tutorials etc to be able to do development.
+A repository containing lists of concepts, tutorials etc to be able to do
+development.
 
 I often take on students at the beginning of their coding 'careers' and this
 repository is meant to be a list of things that they should learn/take a look at
 before getting started. **Pull
 requests welcome**.
 
-In general the development I do is either for [sagemath](http://sagemath.org/)
-or to build [python](https://www.python.org/) libraries.
+In general the development I do is either for [python](https://www.python.org/).
 
 ## General concepts
 
@@ -20,10 +20,7 @@ Here are some basic language agnostic things:
 
 Get a good text editor.
 
-- I like to use [vim](http://www.vim.org/) but this has been historically referred to as having a steep
-  learning curve. The plugins and ability to work right in the terminal are a
-  huge strengths.
-- Here are some other options if you prefer to make use of your mouse:
+- Here are some great options:
     - [atom](https://atom.io/) - has a bunch of plugins and can be hacked easily
       using css etc...
     - [sublime](http://www.sublimetext.com/) - a favorite of many. I can't say
@@ -31,10 +28,14 @@ Get a good text editor.
     - [geany](http://www.geany.org/) - friendly though mighty and cross-platform.
     - [VS Code](https://code.visualstudio.com/) - an open-source editor released
       by Microsoft. Built in support for git, [good selection of extensions](https://marketplace.visualstudio.com/vscode).
+- Students often ask what I am using: I like to use [vim](http://www.vim.org/)
+  but this has been historically referred to as having a steep
+  learning curve. The plugins and ability to work right in the terminal are a
+  huge strengths.
 
 There are various other options (please do add them via pull request).
 
-**Choose a good editor and most importanly realise that it is a very powerful
+**Choose a good editor and most importantly realise that it is a very powerful
 tool that (if you have chosen a good one) will do far more than just edit
 text.**
 
@@ -84,7 +85,9 @@ cross platform desktop Git client which you may find useful.
 
 When using git it is helpful to have 'remote repositories' a good place for this
 is a website called [github](https://github.com/). This is used by coders all
-over the world to share code (and easily contribute to other's code).
+over the world to share code (and easily contribute to other's code). Another
+good option is [gitlab](http://gitlab.com/) (although I generally mainly use
+github).
 
 It is worth setting up an account on github. Here are a few things that might be
 helpful:
@@ -94,7 +97,9 @@ helpful:
 - [Contributing to the Axelrod
   library](https://www.youtube.com/watch?v=5kOUVdktxAo)
 
-If you are a student then sign up for github's [Student Pack](https://education.github.com/pack)
+If you are a student then sign up for github's [Student
+Pack](https://education.github.com/pack)
+
 ### Testing
 
 When writing code it is very important to write automated tests. This is a good
@@ -122,13 +127,14 @@ repository).
 
 ### Windows
 
-If you are using Windows, you have several choices for your terminal program:
+If you are using Windows, here are some basic things I recommend:
 
+- Install the [windows git client](https://git-scm.com/download/win).
+- Install [Anaconda](https://www.continuum.io/downloads#_windows) (for
+  Python) this will also give you `Anaconda prompt`. Which is a sufficient
+  command line tool for all python development and git interfacing.
 - The original Command Prompt runs commands and scripts in the MS-DOS scripting
   language. It's old, but there's lots of material online to help you
-- When you install the [windows git client](https://git-scm.com/download/win)
-  you will also get a git-bash client which gives a good command line
-  environment.
 - Windows Powershell is built into all modern versions of Windows and gives you
   a far superior, modern, object-oriented scripting language and a far better
   terminal.
@@ -138,21 +144,9 @@ If you are using Windows, you have several choices for your terminal program:
   install [Cygwin](https://www.cygwin.com/) which will give you most of the
   common Linux tools and commands.
 
-[This blog post by John
-Cook](http://www.johndcook.com/blog/2015/06/01/unix-like-shells-on-windows/)
-gives a good overview of some of the above.
+See [windows/README.md](windows/README.md) for more details about Windows
+software.
 
-If you are using Windows, you should definitely use the [Anaconda distribution
-of Python](https://www.continuum.io/downloads#_windows). You almost certainly
-want to use Python 3 (check with whoever you are working with).
-
-You could also use [cloud.sagemath](https://cloud.sagemath.com/) which gives you
-a linux environment in the cloud with a terminal, text editor and various other
-things, it is discussed in the section on [using the cloud](#using-the-cloud).
-
-For your text editor, both [atom](https://atom.io/),
-[sublime](http://www.sublimetext.com/) and [geany](http://www.geany.org/) will
-all work perfectly. If you are using Cygwin, you can also use Vim.
 
 ### Using the cloud
 
@@ -168,15 +162,12 @@ develop for [sagemath](http://sagemath.org/) this is an excellent option.
 There are various tools I like to use for communicating during a project.
 
 - Quick text based messages:
-    - I particularly like [google hangouts](https://plus.google.com/hangouts):
-    light weight and has a mobile app (which is very useful when I can only
-    respond whilst running between meetings).
+    - Slack is slowly becoming an industry standard:
+      [slack.com/](https://slack.com/).
     - Another great option is [gitter](https://gitter.im). Again, has a mobile
       app and also interfaces very nicely with github repositories. You can find
       the gitter room for this repository
       [here](https://gitter.im/drvinceknight/list-of-dev-things).
-    - Slack is slowly becoming an industry standard:
-      [slack.com/](https://slack.com/).
     - [irc](http://en.wikipedia.org/wiki/Internet_Relay_Chat) is very popular
       in the open source world. I can't say I'm the
       biggest fan but it's a great place to drop in and speak to people.
@@ -193,7 +184,8 @@ There are various tools I like to use for communicating during a project.
 - Virtual meetings: Very rarely are face to face meetings a regular requirement.
   I like to use hangouts for these but again there are a variety of options.
 
-- urls: when working remotely it's very helpful to be able to just paste link to
+- urls: when working remotely it's very helpful to be able to just paste links
+  to
   something that brings it up in the receivers browser. There are various tools
   for this:
     - Github (just grab the link from the particular file)
